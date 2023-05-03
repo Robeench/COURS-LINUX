@@ -24,17 +24,19 @@ Configurer les fichier virtualhost pour redirection http=> https
 ![Pasted image 20230503090832.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090832.png)
 
 nano /etc/apache2/sites-available/site.conf
-[![[Pasted image 20230503094338.png]]](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503094338.png)
+
+![Pasted image 20230503094338.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503094338.png)
 
 
 # Création d'une base de donnée
 MYSQL
 Installation de mysql8 en lieu et place de maria  
-**wget [https://repo.mysql.com/mysql-apt-config_0.8.23-1_all.deb](https://repo.mysql.com/mysql-apt-config_0.8.23-1_all.deb)[  
-](https://repo.mysql.com//mysql-apt-config_0.8.22-1_all.deb)dpkg -i mysql-apt-config_0.8.23-1_all.deb   
+wget [https://repo.mysql.com/mysql-apt-config_0.8.23-1_all.deb](https://repo.mysql.com/mysql-apt-config_0.8.23-1_all.deb)[  
+](https://repo.mysql.com//mysql-apt-config_0.8.22-1_all.deb)
+dpkg -i mysql-apt-config_0.8.23-1_all.deb   
 apt update  
 apt upgrade  
-apt install mysql-server**
+apt install mysql-server
 
   
 
@@ -44,7 +46,7 @@ _**mysql -u root -p**
 
 Php 7.x
 upload max
-![[Pasted image 20230503100049.png]]
+https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503094338.png
 
 _# création d’un fichier test dans /home/user/www/  
 __# nommé test.php avec le compte user  
