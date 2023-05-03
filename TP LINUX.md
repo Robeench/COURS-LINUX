@@ -46,8 +46,8 @@ _**mysql -u root -p**
 
 Php 7.x
 upload max
-�PNG
-
+[�PNG
+](https://raw.githubusercontent.com/Robeench/COURS-LINUX/main/IMAGE/Pasted%20image%2020230503100049.png)
 
 
 _# création d’un fichier test dans /home/user/www/  
