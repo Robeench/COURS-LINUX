@@ -145,8 +145,8 @@ Chiffrer le compte utilisateur de la base de compte local pour windows
 ![Pasted image 20230503114633.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503114633.png)
 
 Droit utilisateur total
-chmod 777 -R /home/tech 
-chmod 755 -R /home/tech
+chmod 777 -R /home/tech  droit total
+chmod 755 -R /home/tech  read + write
 
 
 # script de sauvegarde des données
