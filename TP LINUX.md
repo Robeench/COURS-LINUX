@@ -52,7 +52,7 @@ Php 7.x
 upload max
 
 ![Pasted image 20230503100049.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503100049.png?raw=true)
-
+				   
 
 _# création d’un fichier test dans /home/tech/www/  
 __# nommé test.php avec le compte user  
