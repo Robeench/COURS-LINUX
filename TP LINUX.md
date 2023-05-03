@@ -7,7 +7,7 @@ CONFIGURER LE SSH
 DNS : lamps.batlan
 Ajouter le fqdn dans le fichier host de windows : windows/service32/driver/etc/host
 
-![[Pasted image 20230503110611.png]]
+![[Pasted image 20230503110611.png]]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503110611.png
 
 # Apache2
 
