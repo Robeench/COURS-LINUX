@@ -46,48 +46,47 @@ _**mysql -u root -p**
 
 Php 7.x
 upload max
-[�PNG
-](https://raw.githubusercontent.com/Robeench/COURS-LINUX/main/IMAGE/Pasted%20image%2020230503100049.png)
+![Pasted image 20230503100049.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503100049.png?raw=true
 
 
 _# création d’un fichier test dans /home/user/www/  
 __# nommé test.php avec le compte user  
 _**su user  
 nano /home/user/www/test.php**
-![[Pasted image 20230503100226.png]]
+![Pasted image 20230503100226.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503100226.png
 
 Connexion via le navigateur :
 https://192.168.1.245/phpmyadmin
 Identification : root 
 Mdp
 
-![[Pasted image 20230503112704.png]]
+![Pasted image 20230503112704.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503112704.png
 Ajout Utilisateur et Base de donnée 
-![[Pasted image 20230503113119.png]]
+![Pasted image 20230503113119.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503113119.png
 
-![[Pasted image 20230503153113.png]]
+![Pasted image 20230503153113.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503153113.png
 
 droit utilisateur sur base de donnée
-![[Pasted image 20230503153210.png]]
+![Pasted image 20230503153210.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503153210.png
 
 Mettre un alias
 nano /etc/apache2/conf-available/phpmyadmin.conf
-![[Pasted image 20230503110435.png]]
+![Pasted image 20230503110435.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503110435.png
 
 Modifier les droit directement dans la base des données
 
 
 Se connecter sur navigateur 
-![[Pasted image 20230503110450.png]]
+![Pasted image 20230503110450.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503110450.png
 
 # FTP
 
-![[Pasted image 20230503111141.png]]
+![Pasted image 20230503111141.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503111141.png
 
 Filezilla 
 Renseigner les champs
 Accepter le certificat
-![[Pasted image 20230503111455.png]]
+![Pasted image 20230503111455.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503111455.png
 
 # Samba
 _# install et config de samba (samba pré-installé en amont)  
@@ -117,7 +116,7 @@ directory mask = 777
 
 Pour tester s'il ya des erreurs
 testparm
-![[Pasted image 20230503114139.png]]
+![Pasted image 20230503114139.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503114139.png
 
 
 
@@ -130,16 +129,16 @@ testparm
 voir PASSWORD sur serrveur crée
 cd /etc
 cat passwd
-![[Pasted image 20230503114027.png]]
+![Pasted image 20230503114027.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503114027.png
 
 cat shadow
 
 Chiffrer le compte utilisateur de la base de compte local pour windows
 **smbpasswd -a tech**
 
-![[Pasted image 20230503114445.png]]
+![Pasted image 20230503114445.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503114445.png
 
-![[Pasted image 20230503114633.png]]
+![Pasted image 20230503114633.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503114633.png
 
 Droit utilisateur total
 chmod 777 -R /home/tech 
@@ -172,20 +171,20 @@ user : utilisateur créé dans la bas ici TOTO
 
 
 
-![[Pasted image 20230503123430.png]]
+![Pasted image 20230503123430.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503123430.png
 crontab -e
 https://crontab.guru/ pour configurer la sauvegarde
 minute heure jour mois weekend
 		x    x             x       x         x
-![[Pasted image 20230503121900.png]]
+![Pasted image 20230503121900.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503121900.png
 
-![[Pasted image 20230503122921.png]]
+![Pasted image 20230503122921.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503122921.png
 
 
 
 # Mettre un certificat sur webadmin
 Se connecter sur https://lamps.batlan:10000
-![[Pasted image 20230503120804.png]]
+![Pasted image 20230503120804.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503120804.png
 
 
 # Wordpress
@@ -202,14 +201,14 @@ chmod -R 775 /home/tech/www
 
 Se connecter via le navigateur sur : https://lamps.batlan/wp-admin
 
-![[Pasted image 20230503124501.png]]
+![Pasted image 20230503124501.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503124501.png
 
 
-![[Pasted image 20230503151039.png]]
+![Pasted image 20230503151039.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503151039.png
 
-![[Pasted image 20230503124834.png]]
+![Pasted image 20230503124834.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503124834.png
 
-![[Pasted image 20230503151129.png]].
+![Pasted image 20230503151129.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503151129.png
 
 
-![[Pasted image 20230503153640.png]]]]
+![Pasted image 20230503153640.png]https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503153640.png
