@@ -19,9 +19,9 @@ Configurer les fichier virtualhost pour redirection http=> https
 
 ![Pasted image 20230503090349.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090349.png)
 
-[![[Pasted image 20230503090542.png]]](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090542.png)
+![Pasted image 20230503090542.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090542.png)
 
-[![[Pasted image 20230503090832.png]]](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090832.png)
+![Pasted image 20230503090832.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090832.png)
 
 nano /etc/apache2/sites-available/site.conf
 [![[Pasted image 20230503094338.png]]](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503094338.png)
