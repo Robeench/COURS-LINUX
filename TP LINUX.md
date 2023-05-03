@@ -27,6 +27,8 @@ nano /etc/apache2/sites-available/site.conf
 
 ![Pasted image 20230503094338.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503094338.png)
 
+Vérification du certificat
+![](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503163334.png)
 
 # Création d'une base de donnée
 MYSQL
