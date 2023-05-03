@@ -50,10 +50,10 @@ upload max
 ![Pasted image 20230503100049.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503100049.png?raw=true)
 
 
-_# création d’un fichier test dans /home/user/www/  
+_# création d’un fichier test dans /home/tech/www/  
 __# nommé test.php avec le compte user  
 _**su user  
-nano /home/user/www/test.php**
+nano /home/tech/www/test.php**
 ![Pasted image 20230503100226.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503100226.png)
 
 Connexion via le navigateur :
