@@ -15,7 +15,7 @@ Création de la cle SSL via la ligne suivante :
 **openssl req $@ -new -x509 -days 3650 -nodes -out /etc/apache2/apache.pem -keyout /etc/apache2/apache.pem**
 
 Configurer les fichier virtualhost pour redirection http=> https
-https://drive.google.com/file/d/12zDlHEKts_GTy8NMj8C7zKlzLAATA-4G/view
+
 
 ![[Pasted image 20230503090349.png]]
 
