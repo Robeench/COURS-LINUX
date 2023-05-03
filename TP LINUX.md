@@ -17,7 +17,7 @@ Création de la cle SSL via la ligne suivante :
 Configurer les fichier virtualhost pour redirection http=> https
 
 
-[![[Pasted image 20230503090349.png]]](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090349.png)
+![Pasted image 20230503090349.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090349.png)
 
 [![[Pasted image 20230503090542.png]]](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090542.png)
 
