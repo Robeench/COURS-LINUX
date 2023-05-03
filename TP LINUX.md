@@ -8,6 +8,7 @@ DNS : lamps.batlan
 Ajouter le fqdn dans le fichier host de windows : windows/service32/driver/etc/host
 
 ![Pasted image 20230503110611.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503110611.png?raw=true)
+				   
 
 # Apache2
 
@@ -21,7 +22,7 @@ Configurer les fichier virtualhost pour redirection http=> https
 
 ![Pasted image 20230503090542.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090542.png?raw=true)
 
-![Pasted image 20230503090832.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090832.png?raw=true?raw=true)
+![Pasted image 20230503090832.png](https://github.com/Robeench/COURS-LINUX/blob/main/IMAGE/Pasted%20image%2020230503090832.png?raw=true)
 
 nano /etc/apache2/sites-available/site.conf
 
